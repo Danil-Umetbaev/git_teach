@@ -1,4 +1,4 @@
-def second_function():
-    return 'I am second func'
+def first_function():
+    return 'I am first func'
 
-print(second_function())
+print(first_function())
